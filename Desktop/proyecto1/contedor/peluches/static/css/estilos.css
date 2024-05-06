@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+}
+#articulo{
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+}
+
+#titulo{
+    color:rgb(255, 254, 254);
+}
+
+#aside{
+    color: rgb(255, 254, 254);
+}
+    
+.principal{
+    font-size: 20px;
+}
+
+.aside{
+    color: red;
+}
+
+p[name="especial"]{
+    font-size: 20px;
+    color: red;
+}
+body{
+    background-color:rgb(121, 3, 3);
+}
